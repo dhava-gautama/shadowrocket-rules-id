@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.biz
+  - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-KEYWORD,whatsapp

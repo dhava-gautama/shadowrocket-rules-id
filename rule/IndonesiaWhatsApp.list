@@ -1,0 +1,10 @@
+# WhatsApp domains only. Do NOT use blackmatrix7 Whatsapp.list as DIRECT:
+# it contains graph.facebook.com and huge AWS CIDRs (e.g. 34.224.0.0/12).
+# VPN exit IPs are unreliable for WhatsApp in Indonesia → keep DIRECT.
+
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,wa.me
+DOMAIN-KEYWORD,whatsapp
+USER-AGENT,WhatsApp*
