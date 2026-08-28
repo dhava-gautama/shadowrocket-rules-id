@@ -38,6 +38,8 @@ payload:
   - DOMAIN-SUFFIX,travelokacdn.com
   - DOMAIN-SUFFIX,tiket.com
   - DOMAIN-SUFFIX,tiket.events
+  - DOMAIN-SUFFIX,garuda-indonesia.com
+  - DOMAIN-SUFFIX,citilink.co.id
   - DOMAIN-SUFFIX,pegipegi.com
   - DOMAIN-SUFFIX,pegipegi.co.id
   - DOMAIN-SUFFIX,ruangguru.com
@@ -51,6 +53,11 @@ payload:
   - DOMAIN-SUFFIX,jne.co.id
   - DOMAIN-SUFFIX,jet.co.id
   - DOMAIN-SUFFIX,sicepat.com
+  - DOMAIN-SUFFIX,jtexpress.id
+  - DOMAIN-SUFFIX,lionparcel.com
+  - DOMAIN-SUFFIX,rpx.co.id
+  - DOMAIN-SUFFIX,idexpress.com
+  - DOMAIN-SUFFIX,wahana.com
   - DOMAIN-SUFFIX,anteraja.id
   - DOMAIN-SUFFIX,ninjaxpress.co
   - DOMAIN-SUFFIX,taximaxim.com

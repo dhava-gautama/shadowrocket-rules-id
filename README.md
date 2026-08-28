@@ -32,6 +32,22 @@ Aplikasi bank/superapp lokal tetap DIRECT supaya tidak gagal di IP VPN. Iklan di
 
 Cara pakai: salin URL di atas → Shadowrocket → Config → + → unduh dari URL → aktifkan.
 
+## Connection hardening / Penguatan koneksi
+
+### English
+
+- **Encrypted DNS:** The profile uses DoH and `hijack-dns = :53` because many Indonesian ISPs hijack or redirect UDP/TCP port 53, and some blackhole plaintext `1.1.1.1` / `8.8.8.8` or DoH hostnames. Cloudflare and Google DoH go through `#proxy`; BebasID Unfiltered is a local Indonesian resolver. `[Host]` pins Cloudflare, Google, and Quad9 bootstrap IPs so `0.0.0.0` answers cannot poison DoH bootstrap. System DNS is no longer used.
+- **Home Wi-Fi Scene (UI only):** Shadowrocket → Home → Global Routing → Scene. Set the Home SSID to routing **Direct**, Cellular to routing **Config** (this profile), then set Global Routing to **Scene**. Location permission may be required for SSID matching.
+- **UDP fallback:** `udp-policy-not-supported-behaviour = DIRECT` keeps voice/video calls working when the selected node is TCP-only.
+- This remains routing + adblock only, with no unlocks, VIP/cracks, or premium MITM modules.
+
+### Bahasa Indonesia
+
+- **DNS terenkripsi:** Profil memakai DoH dan `hijack-dns = :53` karena banyak ISP Indonesia membajak atau mengalihkan UDP/TCP port 53, dan sebagian memblokir diam-diam DNS polos `1.1.1.1` / `8.8.8.8` atau hostname DoH. DoH Cloudflare dan Google melewati `#proxy`; BebasID Unfiltered adalah resolver lokal Indonesia. `[Host]` memasang IP bootstrap Cloudflare, Google, dan Quad9 agar jawaban `0.0.0.0` tidak meracuni bootstrap DoH. DNS sistem tidak lagi dipakai.
+- **Scene Wi-Fi rumah (hanya UI):** Shadowrocket → Home → Global Routing → Scene. Atur SSID rumah ke routing **Direct**, Cellular ke routing **Config** (profil ini), lalu atur Global Routing ke **Scene**. Izin lokasi mungkin diperlukan agar SSID dapat dicocokkan.
+- **Fallback UDP:** `udp-policy-not-supported-behaviour = DIRECT` menjaga panggilan suara/video tetap berfungsi saat node yang dipilih hanya mendukung TCP.
+- Profil ini tetap hanya untuk routing + adblock, tanpa unlock, VIP/crack, atau modul MITM premium.
+
 ## Files
 
 - `shadowrocket_id.conf` — main profile (RULE-SET URLs on this public `main`)

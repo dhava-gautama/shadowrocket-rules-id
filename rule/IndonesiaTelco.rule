@@ -47,6 +47,8 @@ payload:
   - DOMAIN-SUFFIX,iconnet.id
   - DOMAIN-SUFFIX,iconplus.net
   - DOMAIN-SUFFIX,pln.co.id
+  - DOMAIN-SUFFIX,iconpln.co.id
+  - DOMAIN-SUFFIX,plnmobile.co.id
   - DOMAIN-SUFFIX,oxygen.id
   - DOMAIN-SUFFIX,hypernet.co.id
   - DOMAIN-SUFFIX,fiberstar.co.id

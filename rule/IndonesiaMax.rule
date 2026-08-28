@@ -22,6 +22,8 @@ payload:
   - DOMAIN-SUFFIX,grabtaxi.com
   - DOMAIN-SUFFIX,bukalapak.com
   - DOMAIN-SUFFIX,blibli.com
+  - DOMAIN-SUFFIX,alfamart.co.id
+  - DOMAIN-SUFFIX,indomaret.co.id
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-SUFFIX,lazada.co.id
@@ -243,6 +245,8 @@ payload:
   - DOMAIN-SUFFIX,traveloka.co.id
   - DOMAIN-SUFFIX,travelokacdn.com
   - DOMAIN-SUFFIX,tiket.events
+  - DOMAIN-SUFFIX,garuda-indonesia.com
+  - DOMAIN-SUFFIX,citilink.co.id
   - DOMAIN-SUFFIX,pegipegi.co.id
   - DOMAIN-SUFFIX,ruangguru.co.id
   - DOMAIN-SUFFIX,rg.ruangguru.com
@@ -250,6 +254,11 @@ payload:
   - DOMAIN-SUFFIX,klikdokter.co.id
   - DOMAIN-SUFFIX,jne.co.id
   - DOMAIN-SUFFIX,jet.co.id
+  - DOMAIN-SUFFIX,jtexpress.id
+  - DOMAIN-SUFFIX,lionparcel.com
+  - DOMAIN-SUFFIX,rpx.co.id
+  - DOMAIN-SUFFIX,idexpress.com
+  - DOMAIN-SUFFIX,wahana.com
   - DOMAIN-SUFFIX,sicepat.com
   - DOMAIN-SUFFIX,anteraja.id
   - DOMAIN-SUFFIX,ninjaxpress.co
@@ -272,7 +281,9 @@ payload:
   - DOMAIN-SUFFIX,cnbcindonesia.com
   - DOMAIN-SUFFIX,tempo.id
   - DOMAIN-SUFFIX,tvri.go.id
+  - DOMAIN-SUFFIX,duniagames.co.id
   - DOMAIN-SUFFIX,maxstream.tv
+  - DOMAIN-SUFFIX,mola.tv
   - DOMAIN-SUFFIX,transvision.co.id
   - DOMAIN-SUFFIX,genflix.co.id
   - DOMAIN-SUFFIX,rctiplus.com
@@ -357,8 +368,11 @@ payload:
   - DOMAIN-SUFFIX,bssn.go.id
   - DOMAIN-SUFFIX,bsre.bssn.go.id
   - DOMAIN-SUFFIX,pln.co.id
+  - DOMAIN-SUFFIX,plnmobile.co.id
+  - DOMAIN-SUFFIX,iconpln.co.id
   - DOMAIN-SUFFIX,pertamina.com
   - DOMAIN-SUFFIX,pertamina.co.id
+  - DOMAIN-SUFFIX,mypertamina.id
   - DOMAIN-SUFFIX,kai.id
   - DOMAIN-SUFFIX,kai.co.id
   - DOMAIN-SUFFIX,posindonesia.co.id

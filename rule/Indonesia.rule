@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-SUFFIX,lazada.co.id
+  - DOMAIN-SUFFIX,alfamart.co.id
+  - DOMAIN-SUFFIX,indomaret.co.id
   - DOMAIN-SUFFIX,traveloka.com
   - DOMAIN-SUFFIX,tiket.com
   - DOMAIN-SUFFIX,pegipegi.com
