@@ -48,6 +48,17 @@ payload:
   - DOMAIN-SUFFIX,alodokter.com
   - DOMAIN-SUFFIX,klikdokter.com
   - DOMAIN-SUFFIX,klikdokter.co.id
+  - DOMAIN-SUFFIX,jne.co.id
+  - DOMAIN-SUFFIX,jet.co.id
+  - DOMAIN-SUFFIX,sicepat.com
+  - DOMAIN-SUFFIX,anteraja.id
+  - DOMAIN-SUFFIX,ninjaxpress.co
+  - DOMAIN-SUFFIX,taximaxim.com
+  - DOMAIN-SUFFIX,bluebirdgroup.com
+  - DOMAIN-SUFFIX,transjakarta.co.id
+  - DOMAIN-SUFFIX,jakartamrt.co.id
+  - DOMAIN-SUFFIX,krl.co.id
+  - DOMAIN-SUFFIX,commuterline.id
   - DOMAIN-KEYWORD,tokopedia
   - DOMAIN-KEYWORD,gojek
   - DOMAIN-KEYWORD,bukalapak

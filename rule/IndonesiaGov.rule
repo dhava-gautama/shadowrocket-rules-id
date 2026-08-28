@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,go.id
   - DOMAIN-SUFFIX,mil.id
+  - DOMAIN-SUFFIX,jakarta.go.id
+  - DOMAIN-SUFFIX,jaki.jakarta.go.id
   - DOMAIN-SUFFIX,pajak.go.id
   - DOMAIN-SUFFIX,djp.go.id
   - DOMAIN-SUFFIX,efiling.pajak.go.id
@@ -50,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,kai.co.id
   - DOMAIN-SUFFIX,posindonesia.co.id
   - DOMAIN-SUFFIX,pedulilindungi.id
+  - DOMAIN-SUFFIX,samsatdigital.id
   - DOMAIN-KEYWORD,pajak.go.id
   - DOMAIN-KEYWORD,inaproc
   - DOMAIN-KEYWORD,satusehat

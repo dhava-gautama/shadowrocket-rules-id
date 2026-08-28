@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,telkomakses.co.id
   - DOMAIN-SUFFIX,telin.net
   - DOMAIN-SUFFIX,orbit.telkomsel.com
+  - DOMAIN-SUFFIX,myorbit.id
   - DOMAIN-SUFFIX,xl.co.id
   - DOMAIN-SUFFIX,xlaxiata.co.id
   - DOMAIN-SUFFIX,axis.co.id

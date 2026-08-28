@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,gopay.co.id
 DOMAIN-SUFFIX,gopay.id
 DOMAIN-SUFFIX,gopayapi.com
 DOMAIN-SUFFIX,pgo.dev
+DOMAIN-SUFFIX,i-saku.com
 DOMAIN-SUFFIX,ovo.id
 DOMAIN-SUFFIX,ovo.co.id
 DOMAIN-SUFFIX,ovotoken.com
@@ -15,6 +16,8 @@ DOMAIN-SUFFIX,linkaja.com
 DOMAIN-SUFFIX,linkaja.co.id
 DOMAIN-SUFFIX,shopeepay.co.id
 DOMAIN-SUFFIX,shopeepay.id
+DOMAIN-SUFFIX,fazz.com
+DOMAIN-SUFFIX,payfazz.com
 DOMAIN-SUFFIX,sakuku.co.id
 DOMAIN-SUFFIX,sakuku.id
 DOMAIN-SUFFIX,flip.id
@@ -26,6 +29,8 @@ DOMAIN-SUFFIX,stockbit.com
 DOMAIN-SUFFIX,stockbit.id
 DOMAIN-SUFFIX,bareksa.com
 DOMAIN-SUFFIX,bareksa.id
+DOMAIN-SUFFIX,nanovest.io
+DOMAIN-SUFFIX,treasury.id
 DOMAIN-SUFFIX,pintu.co.id
 DOMAIN-SUFFIX,pintu.id
 DOMAIN-SUFFIX,tokocrypto.com
@@ -52,6 +57,8 @@ DOMAIN-SUFFIX,akulaku.com
 DOMAIN-SUFFIX,akulaku.co.id
 DOMAIN-SUFFIX,indodana.com
 DOMAIN-SUFFIX,indodana.co.id
+DOMAIN-SUFFIX,adakami.id
+DOMAIN-SUFFIX,homecredit.co.id
 DOMAIN-SUFFIX,cermati.com
 DOMAIN-SUFFIX,koinworks.com
 DOMAIN-SUFFIX,modalku.co.id
@@ -59,6 +66,7 @@ DOMAIN-SUFFIX,investree.id
 DOMAIN-KEYWORD,gopay
 DOMAIN-KEYWORD,shopeepay
 DOMAIN-KEYWORD,linkaja
+DOMAIN-KEYWORD,payfazz
 DOMAIN-KEYWORD,midtrans
 DOMAIN-KEYWORD,stockbit
 DOMAIN-KEYWORD,tokocrypto

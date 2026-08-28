@@ -1,6 +1,5 @@
-# Indonesia core — ccTLD + major local services
-# Pair format matches rule/China.list + rule/China.rule
-# Standalone: use IndonesiaMax.list for a wider domain set.
+# Indonesia core — ccTLD/public suffixes + high-signal local services
+# Keep this pair compact; use IndonesiaMax.list for the wider Indonesia* union.
 
 DOMAIN-SUFFIX,id
 DOMAIN-SUFFIX,co.id
@@ -8,6 +7,7 @@ DOMAIN-SUFFIX,go.id
 DOMAIN-SUFFIX,ac.id
 DOMAIN-SUFFIX,or.id
 DOMAIN-SUFFIX,sch.id
+DOMAIN-SUFFIX,net.id
 DOMAIN-SUFFIX,web.id
 DOMAIN-SUFFIX,my.id
 DOMAIN-SUFFIX,biz.id

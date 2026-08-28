@@ -1,6 +1,6 @@
-# Union of Indonesia* domain lists + extra local .com
-# No IP-CIDR here — use IndonesiaIPs.list + GEOIP,ID
-# Generated 2026-08-28
+# Union of Indonesia domain lists (no IP-CIDR)
+# Sources: core, Banks, Finance, Superapps, Media, Gov, Telco, WhatsApp
+# Generated: 2026-08-28
 
 DOMAIN-SUFFIX,id
 DOMAIN-SUFFIX,co.id
@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,go.id
 DOMAIN-SUFFIX,ac.id
 DOMAIN-SUFFIX,or.id
 DOMAIN-SUFFIX,sch.id
+DOMAIN-SUFFIX,net.id
 DOMAIN-SUFFIX,web.id
 DOMAIN-SUFFIX,my.id
 DOMAIN-SUFFIX,biz.id
@@ -139,6 +140,17 @@ DOMAIN-SUFFIX,bankmnc.co.id
 DOMAIN-SUFFIX,amarbank.co.id
 DOMAIN-SUFFIX,woori.co.id
 DOMAIN-SUFFIX,shinhan.co.id
+DOMAIN-SUFFIX,bankdki.co.id
+DOMAIN-SUFFIX,bankjakarta.co.id
+DOMAIN-SUFFIX,jakone.mobi
+DOMAIN-SUFFIX,bankbjb.co.id
+DOMAIN-SUFFIX,bankjatim.co.id
+DOMAIN-SUFFIX,bankjatim.id
+DOMAIN-SUFFIX,bankjateng.co.id
+DOMAIN-SUFFIX,bankraya.co.id
+DOMAIN-SUFFIX,banksinarmas.com
+DOMAIN-SUFFIX,nobubank.com
+DOMAIN-SUFFIX,hibank.co.id
 DOMAIN-SUFFIX,ojk.go.id
 DOMAIN-SUFFIX,lps.go.id
 DOMAIN-KEYWORD,klikbca
@@ -159,6 +171,7 @@ DOMAIN-SUFFIX,gopay.co.id
 DOMAIN-SUFFIX,gopay.id
 DOMAIN-SUFFIX,gopayapi.com
 DOMAIN-SUFFIX,pgo.dev
+DOMAIN-SUFFIX,i-saku.com
 DOMAIN-SUFFIX,ovo.id
 DOMAIN-SUFFIX,ovo.co.id
 DOMAIN-SUFFIX,ovotoken.com
@@ -170,6 +183,8 @@ DOMAIN-SUFFIX,linkaja.com
 DOMAIN-SUFFIX,linkaja.co.id
 DOMAIN-SUFFIX,shopeepay.co.id
 DOMAIN-SUFFIX,shopeepay.id
+DOMAIN-SUFFIX,fazz.com
+DOMAIN-SUFFIX,payfazz.com
 DOMAIN-SUFFIX,flip.id
 DOMAIN-SUFFIX,flip-id.com
 DOMAIN-SUFFIX,getflip.id
@@ -179,6 +194,8 @@ DOMAIN-SUFFIX,stockbit.com
 DOMAIN-SUFFIX,stockbit.id
 DOMAIN-SUFFIX,bareksa.com
 DOMAIN-SUFFIX,bareksa.id
+DOMAIN-SUFFIX,nanovest.io
+DOMAIN-SUFFIX,treasury.id
 DOMAIN-SUFFIX,pintu.co.id
 DOMAIN-SUFFIX,pintu.id
 DOMAIN-SUFFIX,tokocrypto.com
@@ -202,12 +219,15 @@ DOMAIN-SUFFIX,akulaku.com
 DOMAIN-SUFFIX,akulaku.co.id
 DOMAIN-SUFFIX,indodana.com
 DOMAIN-SUFFIX,indodana.co.id
+DOMAIN-SUFFIX,adakami.id
+DOMAIN-SUFFIX,homecredit.co.id
 DOMAIN-SUFFIX,cermati.com
 DOMAIN-SUFFIX,koinworks.com
 DOMAIN-SUFFIX,modalku.co.id
 DOMAIN-SUFFIX,investree.id
 DOMAIN-KEYWORD,shopeepay
 DOMAIN-KEYWORD,linkaja
+DOMAIN-KEYWORD,payfazz
 DOMAIN-KEYWORD,midtrans
 DOMAIN-KEYWORD,stockbit
 DOMAIN-KEYWORD,tokocrypto
@@ -246,6 +266,17 @@ DOMAIN-SUFFIX,ruangguru.co.id
 DOMAIN-SUFFIX,rg.ruangguru.com
 DOMAIN-SUFFIX,halodoc.co.id
 DOMAIN-SUFFIX,klikdokter.co.id
+DOMAIN-SUFFIX,jne.co.id
+DOMAIN-SUFFIX,jet.co.id
+DOMAIN-SUFFIX,sicepat.com
+DOMAIN-SUFFIX,anteraja.id
+DOMAIN-SUFFIX,ninjaxpress.co
+DOMAIN-SUFFIX,taximaxim.com
+DOMAIN-SUFFIX,bluebirdgroup.com
+DOMAIN-SUFFIX,transjakarta.co.id
+DOMAIN-SUFFIX,jakartamrt.co.id
+DOMAIN-SUFFIX,krl.co.id
+DOMAIN-SUFFIX,commuterline.id
 DOMAIN-KEYWORD,ruangguru
 DOMAIN-KEYWORD,halodoc
 DOMAIN-KEYWORD,shopeemobile
@@ -265,6 +296,9 @@ DOMAIN-SUFFIX,detikcdn.com
 DOMAIN-SUFFIX,cnbcindonesia.com
 DOMAIN-SUFFIX,tempo.id
 DOMAIN-SUFFIX,tvri.go.id
+DOMAIN-SUFFIX,maxstream.tv
+DOMAIN-SUFFIX,transvision.co.id
+DOMAIN-SUFFIX,genflix.co.id
 DOMAIN-SUFFIX,rctiplus.com
 DOMAIN-SUFFIX,visionplus.id
 DOMAIN-SUFFIX,mnc.co.id
@@ -309,6 +343,8 @@ USER-AGENT,Vidio*
 USER-AGENT,RCTI*
 USER-AGENT,Vision+*
 USER-AGENT,Kompas*
+DOMAIN-SUFFIX,jakarta.go.id
+DOMAIN-SUFFIX,jaki.jakarta.go.id
 DOMAIN-SUFFIX,pajak.go.id
 DOMAIN-SUFFIX,djp.go.id
 DOMAIN-SUFFIX,efiling.pajak.go.id
@@ -355,6 +391,7 @@ DOMAIN-SUFFIX,kai.id
 DOMAIN-SUFFIX,kai.co.id
 DOMAIN-SUFFIX,posindonesia.co.id
 DOMAIN-SUFFIX,pedulilindungi.id
+DOMAIN-SUFFIX,samsatdigital.id
 DOMAIN-KEYWORD,pajak.go.id
 DOMAIN-KEYWORD,inaproc
 DOMAIN-KEYWORD,satusehat
@@ -371,6 +408,7 @@ DOMAIN-SUFFIX,telkom.id
 DOMAIN-SUFFIX,telkomakses.co.id
 DOMAIN-SUFFIX,telin.net
 DOMAIN-SUFFIX,orbit.telkomsel.com
+DOMAIN-SUFFIX,myorbit.id
 DOMAIN-SUFFIX,xl.co.id
 DOMAIN-SUFFIX,xlaxiata.co.id
 DOMAIN-SUFFIX,axis.co.id
@@ -428,32 +466,3 @@ DOMAIN-SUFFIX,whatsapp.biz
 DOMAIN-SUFFIX,wa.me
 DOMAIN-KEYWORD,whatsapp
 USER-AGENT,WhatsApp*
-DOMAIN-SUFFIX,kaskus.com
-DOMAIN-SUFFIX,olx.co.id
-DOMAIN-SUFFIX,zalora.co.id
-DOMAIN-SUFFIX,bhinneka.com
-DOMAIN-SUFFIX,sociolla.com
-DOMAIN-SUFFIX,sephora.co.id
-DOMAIN-SUFFIX,erafone.com
-DOMAIN-SUFFIX,indomaret.co.id
-DOMAIN-SUFFIX,alfamart.co.id
-DOMAIN-SUFFIX,alfamidi.com
-DOMAIN-SUFFIX,jne.co.id
-DOMAIN-SUFFIX,tiki.id
-DOMAIN-SUFFIX,sicepat.com
-DOMAIN-SUFFIX,jnt.co.id
-DOMAIN-SUFFIX,jnt.id
-DOMAIN-SUFFIX,anteraja.id
-DOMAIN-SUFFIX,lionparcel.com
-DOMAIN-SUFFIX,paxel.co
-DOMAIN-SUFFIX,bluebirdgroup.com
-DOMAIN-SUFFIX,redbus.id
-DOMAIN-SUFFIX,idx.co.id
-DOMAIN-SUFFIX,ksei.co.id
-DOMAIN-SUFFIX,zenius.net
-DOMAIN-SUFFIX,quipper.com
-DOMAIN-SUFFIX,sekolah.mu
-DOMAIN-SUFFIX,jobstreet.co.id
-DOMAIN-SUFFIX,glints.id
-DOMAIN-SUFFIX,kalibrr.id
-DOMAIN-SUFFIX,waze.com

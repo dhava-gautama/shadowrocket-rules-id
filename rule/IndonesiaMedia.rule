@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,tempo.co
   - DOMAIN-SUFFIX,tempo.id
   - DOMAIN-SUFFIX,tvri.go.id
+  - DOMAIN-SUFFIX,maxstream.tv
+  - DOMAIN-SUFFIX,transvision.co.id
+  - DOMAIN-SUFFIX,genflix.co.id
   - DOMAIN-SUFFIX,rctiplus.com
   - DOMAIN-SUFFIX,visionplus.id
   - DOMAIN-SUFFIX,mnc.co.id

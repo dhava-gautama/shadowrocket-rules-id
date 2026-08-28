@@ -88,6 +88,17 @@ payload:
   - DOMAIN-SUFFIX,amarbank.co.id
   - DOMAIN-SUFFIX,woori.co.id
   - DOMAIN-SUFFIX,shinhan.co.id
+  - DOMAIN-SUFFIX,bankdki.co.id
+  - DOMAIN-SUFFIX,bankjakarta.co.id
+  - DOMAIN-SUFFIX,jakone.mobi
+  - DOMAIN-SUFFIX,bankbjb.co.id
+  - DOMAIN-SUFFIX,bankjatim.co.id
+  - DOMAIN-SUFFIX,bankjatim.id
+  - DOMAIN-SUFFIX,bankjateng.co.id
+  - DOMAIN-SUFFIX,bankraya.co.id
+  - DOMAIN-SUFFIX,banksinarmas.com
+  - DOMAIN-SUFFIX,nobubank.com
+  - DOMAIN-SUFFIX,hibank.co.id
   - DOMAIN-SUFFIX,ojk.go.id
   - DOMAIN-SUFFIX,lps.go.id
   - DOMAIN-KEYWORD,klikbca

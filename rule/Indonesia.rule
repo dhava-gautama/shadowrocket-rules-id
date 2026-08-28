@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ac.id
   - DOMAIN-SUFFIX,or.id
   - DOMAIN-SUFFIX,sch.id
+  - DOMAIN-SUFFIX,net.id
   - DOMAIN-SUFFIX,web.id
   - DOMAIN-SUFFIX,my.id
   - DOMAIN-SUFFIX,biz.id
